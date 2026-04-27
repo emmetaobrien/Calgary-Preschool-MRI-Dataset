@@ -1,0 +1,321 @@
+{
+    "title": "Calgary Preschool MRI Dataset",
+    "creators": [
+        {
+            "name": "Bryce Geraeert",
+ 			"extraProperties": [
+        		{
+          			"category": "ORCID",
+          			"values": [
+            			{
+              				"value": "https://orcid.org/0000-0003-1388-1014"
+            			}
+          			]
+        		}
+      		]
+        },
+        {
+            "name": "Xiangyu Long",
+ 			"extraProperties": [
+        		{
+          			"category": "ORCID",
+          			"values": [
+            			{
+              				"value": "https://orcid.org/0000-0001-6451-3313"
+            			}
+          			]
+        		}
+      		]
+        },
+        {
+            "name": "Catherine Lebel",
+ 			"extraProperties": [
+        		{
+          			"category": "ORCID",
+          			"values": [
+            			{
+              				"value": "https://orcid.org/0000-0002-0344-4032"
+            			}
+          			]
+        		}
+      		]
+        }
+    ],
+    "description": "Full data from a large, longitudinal study of childhood brain development conducted in Calgary, Alberta, Canada. The dataset includes datasets from 143 subjects with 1 to 28 sessions each (679 datasets total). Participant ages range from 2 to 13 years old, with appointments taking place between 2013 and 2014. All subjects were scanned on a 3T GE MR 750w MRI system, and were invited back annually for follow-up appointments. MRI modalities included are: T1w, T2w, dwi (b=750 and b=2000), resting state fMRI, ihMT, and ASL. Participants also completed regular cognitive assessments, data available upon request.",
+    "privacy": "open",
+	"version": "1.0 - 2026-02-23",
+    "licenses": [
+        {
+            "name": "CC-By Attribution 4.0 International"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2013-07-25 00:00:00",
+            "type": {
+                "value": "first data collection"
+            }
+        },
+        {
+            "date": "2023-08-22 00:00:00",
+            "type": {
+                "value": "last data collection"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "Brain Development"
+		},
+		{
+			"value": "Early Childhood"
+        },
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "Diffusion"
+        },
+        {
+            "value": "Diffusion Tensor Imaging"
+        },
+        {
+            "value": "Magnetic Resonance Imaging"
+        },
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "Pediatric"
+        },
+        {
+            "value": "Structural"
+        },
+        {
+            "value": "Functional"
+        },
+        {
+            "value": "Anatomic"
+        },
+        {
+            "value": "White Matter"
+        }
+    ],
+    "distributions": [
+        {
+			"formats": [
+				"Compressed NIFTI(NIIGZ)"
+			],
+            "size": 334,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/axz5r/",
+                "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=axz5r",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+	"primaryPublications": [
+	    {
+    		"title": "Calgary Preschool magnetic resonance imaging (MRI) dataset",
+			"publicationVenue": "Data in Brief",
+			"authors": [
+    	  		{
+        			"fullName": "Jess E. Reynolds",
+          			"firstName": "",
+          			"middleInitial": "",
+	          		"lastName": "",
+    	      		"affiliations": [
+        	    		{
+            	  			"name": "University of Calgary"
+            			}
+          			]
+	        	},
+    	    	{
+        	  		"fullName": "Xiangyu Long",
+          			"firstName": "",
+          			"middleInitial": "",
+	          		"lastName": "",
+    	      		"affiliations": [
+        	    		{
+		    	        	"name": "University of Calgary"
+            			}
+	          		]
+    	    	},
+        		{
+          			"fullName": "Dmitrii Paniukov",
+          			"firstName": "",
+	          		"middleInitial": "",
+    	      		"lastName": "",
+        	  		"affiliations": [
+            			{
+              				"name": "University of Calgary"
+            			}
+	          		]
+    	    	},
+        		{
+          			"fullName": "Mercedes Bagshawe",
+          			"firstName": "",
+	          		"middleInitial": "",
+    	      		"lastName": "",
+        	  		"affiliations": [
+            			{
+              				"name": "University of Calgary"
+            			}
+	          		]
+    	    	},
+        		{
+          			"fullName": "Catherine Lebel",
+          			"firstName": "",
+	          		"middleInitial": "",
+    	      		"lastName": "",
+        	  		"affiliations": [
+            			{
+              				"name": "University of Calgary"
+            			}
+	          		]
+    	    	}
+			],
+			"dates": [
+        		{
+          			"date": "2020-04-30 00:00:00",
+          			"type": {
+			            "value": "date of publication"
+          			}
+        		}
+      		],
+      		"identifier": {
+        		"identifier": "https://doi.org/10.1016/j.dib.2020.105224",
+        		"identifierSource": "DOI"
+	    	}
+		}
+    ],
+	"isAbout": [
+    	{
+      		"name": "Homo sapiens",
+      		"identifier": {
+        		"identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        		"identifierSource": "NCBI Taxonomy Database"
+      		}
+    	}
+	],
+	"acknowledges": [
+    	{
+      		"name": "Grants",
+      		"funders": [
+        		{
+          			"name": "Canadian Institute for Health Research",
+          			"abbreviation": "CIHR"
+        		}
+      		]
+    	}
+  	],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+		{
+      		"category": "subjects",
+      		"values": [
+        		{
+          			"value": "143"
+        		}
+      		]
+    	},
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "22127"
+                }
+            ]
+        },
+		{
+      		"category": "CONP_status",
+      		"values": [
+        		{
+          			"value": "Canadian"
+        		}
+      		]
+    	},
+    	{
+      		"category": "origin_institution",
+      		"values": [
+        		{
+          			"value": "University of Calgary"
+        		}
+      		]
+    	},
+    	{
+      		"category": "origin_city",
+      		"values": [
+       			{
+          			"value": "Calgary"
+        		}
+      		]
+    	},
+    	{
+      		"category": "origin_province",
+      		"values": [
+        		{
+          			"value": "Alberta"
+        		}
+      		]
+    	},
+    	{
+      		"category": "origin_country",
+      		"values": [
+        		{
+          			"value": "Canada"
+        		}
+      		]
+    	},
+		{
+			"category": "contact",
+    		"values": [
+        		{
+          			"value": "Developmental Neuroimaging Lab, brainmri@ucalgary.ca"
+        		}
+			]
+    	},
+		{
+			"category": "REB_statement",
+			"values": [
+        		{
+          			"value": "In submitting this dataset for inclusion, I declare that local law or a relevant institutional authorization otherwise enables the deposit of these data in an open-access portal."
+        		}
+      		]
+    	},
+ 		{
+      		"category": "REB_number",
+      		"values": [
+        		{
+          			"value": "REB13-0020"
+		        }
+      		]
+    	}
+    ],
+    "identifier": {
+        "identifier": "10.17605/OSF.IO/AXZ5R",
+        "identifierSource": "OSF DOI"
+    },
+    "types": [
+        {
+            "value": "imaging"
+        },
+        {
+            "value": "MRI"
+        }
+    ]
+}
