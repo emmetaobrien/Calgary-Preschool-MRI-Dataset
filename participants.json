@@ -1,0 +1,95 @@
+{
+    "participant_id": {
+        "LongName": "Participant ID",
+        "Description": "Unique code assigned to each participant. Used to denote longitudinal visits from the same participant"
+    },
+    "session": {
+        "LongName": "Study Session Time Point",
+        "Description": "Integer noting which study time point this data came from."
+    },
+    "study_code": {
+        "LongName": "Study Code",
+        "Description": "Unique code used in reference to a single study visit."
+    },
+    "age": {
+        "LongName": "",
+        "Description": "age of the participant",
+        "Units": "days"
+    },
+    "sex": {
+        "LongName": "",
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "0": "female",
+            "1": "male"
+        }
+    },
+    "income": {
+        "LongName": "Household Income",
+        "Description": "Annual income for full household.",
+        "Units": "Canadian Dollars (CAD)",
+        "Levels": {
+            "1": "<$25,000",
+            "2": "$25,000-$49,999",
+            "3": "$50,000-$74,999",
+            "4": "$75,000-$99,999",
+            "5": "$100,000-$124,999",
+            "6": "$125,000-$149,999",
+            "7": "$150,000-$174,999",
+            "8": ">$175,000",
+            "9": "declined to answer",
+            "-99": "missing"
+        }
+    },
+    "caregiver_1_ed": {
+        "LongName": "Primary Caregiver Education",
+        "Description": "Education level of participant's primary caregiver, self-rated by parent/guardian.",
+        "Levels": {
+            "1": "Some high school",
+            "2": "Graduated high school",
+            "3": "Some post-secondary",
+            "4": "Trade/technical/vocational diploma or certification",
+            "5": "Undergraduate Degree",
+            "6": "Some postgraduate work",
+            "7": "Postgraduate degree (ie. MA, PhD, MBA, etc)",
+            "8": "Other",
+            "-99": "declined to answer"
+        }
+    },
+    "caregiver_2_ed": {
+        "LongName": "Secondary Caregiver Education",
+        "Description": "Education level of participant's secondary caregiver, self-rated by parent/guardian.",
+        "Levels": {
+            "1": "Some high school",
+            "2": "Graduated high school",
+            "3": "Some post-secondary",
+            "4": "Trade/technical/vocational diploma or certification",
+            "5": "Undergraduate Degree",
+            "6": "Some postgraduate work",
+            "7": "Postgraduate degree (ie. MA, PhD, MBA, etc)",
+            "8": "Other",
+            "-99": "declined to answer"
+        }
+    },
+    "handedness": {
+        "LongName": "",
+        "Description": "Participant's dominant hand",
+        "Levels": {
+            "1": "Left-handed",
+            "2": "Right-handed",
+            "3": "Both hands used equally"
+        }
+    },
+    "dev_disorder": {
+        "LongName": "",
+        "Description": "",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "dev_disorder_specify": {
+        "LongName": "",
+        "Description": ""
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Name": "Calgary Preschool MRI Dataset",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "PDDL",
+    "Authors": [
+        "Dr. Catherine Lebel (https://www.developmentalneuroimaginglab.ca/)",
+        "Dr. Bryce Geeraert",
+        "Dr. Xiangyu Long"
+    ],
+    "Acknowledgments": "Thanks to our funding sources and to the families who volunteered to participate in this project. Thanks as well to the many researchers who have worked with and developed this dataset including Dr. Deborah Dewey, Camilia Thieba, Mercedes Bagshawe, Ashleigh Frayne, Jess Reynolds, Dmitrii Paniukov, Meaghan Perdue, and Jamie Roeske.",
+    "HowToAcknowledge": "Please cite the following paper: Reynolds JE, Long X, Paniukov D, Bagshawe M, Lebel C. Calgary Preschool magnetic resonance imaging (MRI) dataset. Data Brief. 2020 Jan 31;29:105224. doi: 10.1016/j.dib.2020.105224. PMID: 32071993; PMCID: PMC7016255.",
+    "Funding": [
+        "Canadian Institutes of Health Research (CIHR)"
+    ],
+    "EthicsApprovals": [
+        "University of Calgary Research Ethics Board (REB13-0020)"  
+      ],
+    "ReferencesAndLinks": [
+        "https://osf.io/axz5r/",
+        "https://doi.org/10.1016/j.dib.2020.105224"
+    ],
+    "DatasetDOI": "",
+    "GeneratedBy": [
+    {
+        "Name": "dcm2bids",
+        "Version": "3.2.0"
+    }
+    ]
+}
