@@ -22,5 +22,3 @@
 - Cognitive tests administered included: NEPSY-II, Woodcock-Johnson-IV, along with behavioural questionnaires: Language Use Inventory and Child Communication Checklist-2.
 
 Cognitive scores may be requested using the contact email above.
-
-Cognitive scores may be requested using the contact email above.
